@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Davide's blog"
+theme = "PaperMod"
+googleAnalytics = "UA-111281648-1"
+
+[params]
+  description = ""
+  logo = "icons/logo.png"
+  themeColor = "theme-base-09"
