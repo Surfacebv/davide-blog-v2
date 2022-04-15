@@ -9,3 +9,6 @@
 
 [context.deploy-preview]
   command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
+
+[backend]
+  name = "git-gateway"
