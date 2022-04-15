@@ -1,7 +1,7 @@
 backend:
-  name: github
-  repo: davidebe/blog-davide # Path to your Github repository
-  branch: master # Branch to update (master by default)
+  name: git-gateway
+  # repo: davidebe/blog-davide # Path to your Github repository
+  # branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
 
