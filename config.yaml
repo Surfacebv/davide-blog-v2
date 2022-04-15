@@ -1,0 +1,20 @@
+baseURL: "/"
+languageCode: "en-us"
+title: "Davide's blog"
+theme: "PaperMod"
+googleAnalytics: "UA-111281648-1"
+
+# [params]
+#   description = ""
+#   logo = "icons/logo.png"
+#   themeColor = "theme-base-09"
+params:
+  homeInfoParams:
+    Title: David's blog
+    Content: I write about tech, story, strategy, information & marketing. I also help companies find their voice.
+
+  socialIcons: # optional
+    - name: "instagram"
+      url: "https://instagram.com/daveeday"
+    - name: "linkedin"
+      url: "https://blog.davideberretta.com/icons/iconmonstr-linkedin-4.svg"
